@@ -1,3 +1,4 @@
+# 逻辑回归
 '''
 Created on Oct 27, 2010
 Logistic Regression Working Module
